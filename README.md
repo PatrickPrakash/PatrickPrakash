@@ -5,7 +5,7 @@
 </p>
 
 ---
-✨ I'm a computer science student at Model Engineering College, Thrikkara, Kochi. I'm experinced in designing and developing android applications.
+✨ I'm a computer science student at Model Engineering College, Thrikkakara, Kochi. I'm experienced in designing and developing android applications.
 I have interest in quantum computing and deep learning. I love to try out new things everyday.
 
 
