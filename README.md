@@ -20,6 +20,6 @@ I have interest in quantum computing and deep learning. I love to try out new th
 
 ### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
 
-![Metrics](https://metrics.lecoq.io/patrickprakash?template=classic&config.timezone=Asia%2FCalcutta&config.animated=true)
+![Metrics](https://github.com/PatrickPrakash/PatrickPrakash/blob/main/github-metrics.svg)
 
 
