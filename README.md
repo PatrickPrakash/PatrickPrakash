@@ -12,8 +12,8 @@ I have interest in quantum computing and deep learning. I love to try out new th
 
 
 - 😄 My Pronouns: He/Him   
-- 🔭 I’m currently working on Angular
-- 👯 I’m looking to collaborate on web development and deep learning
+- 🔭 I’m currently working on IoT Platforms, Cloud Native Solutions
+- 👯 I’m looking to collaborate on IoT Engineering, Critical Systems
 - 💬 Ask me about: Angular, Android, Java, Typescript, Javascript, Kotlin, Quantum Computing, Deep Learning
 - 📫 How to reach me: [@thisispatts](https://twitter.com/thisispatts)
 - ⚡ Fun fact: I love astronomy (Black holes and Stuff) & philosophy
