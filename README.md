@@ -10,7 +10,6 @@
 
 
 
-### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
 
 ![Metrics](https://github.com/PatrickPrakash/PatrickPrakash/blob/main/github-metrics.svg)
 
