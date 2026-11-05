@@ -5,8 +5,7 @@
 </p>
 
 ---
-engineer by day and night. human-centric technologist
-
+<code>engineer by day and night. human-centric technologist</code>
 
 
 
@@ -14,5 +13,6 @@ engineer by day and night. human-centric technologist
 ### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
 
 ![Metrics](https://github.com/PatrickPrakash/PatrickPrakash/blob/main/github-metrics.svg)
+
 
 
